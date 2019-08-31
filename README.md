@@ -1,3 +1,1 @@
-# CS271
- 
-All work done in CS 271
+# CS271 - Computer Architecture and Assembly Language, Fall 2018
